@@ -1,8 +1,8 @@
 # March Madness Machine Learning Competition 2023
  
-Created a TensorFlow model to predict outcomes of 2023 March Madness games (entered in Kaggle competition)
+Deep neural network intended to predict outcomes of 2023 March Madness games (placed 655/1023)
 
-Model is trained on past march madness tournaments. Ignores tournament seed, entirely based on web scraped KenPom data. 
+Model is trained on past march madness tournaments. Ignores tournament seed to improve upset predictions, entirely based on web scraped KenPom data and an added "Power 5 indicator" providing a bias towards schools in Power 5 conferences. 
 
 Men's model: dataCollection-main.ipnyb
 

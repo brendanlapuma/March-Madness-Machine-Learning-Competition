@@ -4,4 +4,7 @@ Created a TensorFlow model to predict outcomes of 2023 March Madness games (ente
 
 Model is trained on past march madness tournaments. Ignores tournament seed, entirely based on web scraped KenPom data. 
 
+Men's model: data-collection.ipnyb
+Women's model: women's-model.ipnyb
+
 Created by Jason Lott, Brendan LaPuma, and Eamon Weingold

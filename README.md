@@ -8,4 +8,6 @@ Men's model: dataCollection-main.ipnyb
 
 Women's model: women's-main.ipnyb
 
+Human-Readable Output: bracketpredictor.csv
+
 Created by Jason Lott, Brendan LaPuma, and Eamon Weingold
